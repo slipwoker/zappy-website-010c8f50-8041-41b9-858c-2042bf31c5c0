@@ -1,0 +1,57 @@
+# Rolling Pizza — Generative Engine Optimization Map
+
+> A food truck specializing in delicious pizza, bringing fresh and tasty slices on the go. The brand has a fun, street-food vibe with a passion for quality pizza served in a casual, mobile setting.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Craving whole foods pizza without the wait? Rolling Pizza brings bold, fresh-crafted slices straight to your street. Chase the truck, skip the table, taste the difference!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Rolling Pizza
+A food truck specializing in delicious pizza, bringing fresh and tasty slices on the go. The brand has a fun, street-food vibe with a passion for quality pizza served in a casual, mobile setting.
+
+## Services/Products
+- pizza
+
+## Target Audience
+- College Students On-the-Go
+- Office Lunch Crowd
+- Event Foodies
+
+## Industry
+food & beverage
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
